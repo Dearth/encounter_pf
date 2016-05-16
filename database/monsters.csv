@@ -1,0 +1,430 @@
+aasimar,0.5,ng,outsider(native),any,any,bestiary 1 7
+aboleth,7,le,aberration,any,aquatic,bestiary 1 8
+astral deva,14,ng,outsider,good plane,any,bestiary 1 10
+planetar,16,ng,outsider,good plane,any,bestiary 1 11
+solar,23,ng,outsider,good plane,any,bestiary 1 12
+animated object,3,n,construct,any,any,bestiary 1 14
+ankheg,3,n,magical beast,temperate warm,plain,bestiary 1 15
+giant ant,2,n,vermin,any,any,bestiary 1 16
+army ant swarm,5,n,vermin,tropical,any,bestiary 1 16
+gorilla,2,n,animal,warm,forest,bestiary 1 17
+dire ape,3,n,animal,warm,forest,bestiary 1 17
+hound archon,4,lg,outsider,heaven,any,bestiary 1 19
+lantern archon,2,lg,outsider,heaven,any,bestiary 1 20
+trumpet archon,14,lg,outsider,heaven,any,bestiary 1 21
+assassin vine,3,n,plant,temperate,forest,bestiary 1 22
+bralani,6,cg,outsider,elysium,any,bestiary 1 24
+ghaele,13,cg,outsider,elysium,any,bestiary 1 25
+lillend,7,cg,outsider,elysium,any,bestiary 1 26
+barghest,4,le,ousider,any,any,bestiary 1 27
+basidirond,5,n,plant,tropical warm temperate,underground,bestiary 1 28
+basilisk,5,n,magical beast,any,any,bestiary 1 29
+dire bat,2,n,animal,tropical temperate,any,bestiary 1 30
+bat swarm,2,n,animal,tropical temperate,any,bestiary 1 30
+grizzly bear,4,n,animal,cold,forest,bestiary 1 31
+dire bear,7,n,animal,cold,forest,bestiary 1 31
+bebilith,10,ce,outsider,abyss,any,bestiary 1 32
+fire beetle,0.3,n,vermin,any,any,bestiary 1 33
+giant stag beetle,4,n,vermin,temperate,forest,bestiary 1 33
+behir,8,n,magical beast,warm,hill desert,bestiary 1 34
+black pudding,7,n,ooze,any,underground,bestiary 1 35
+boar,2,n,animal,temperate tropical,forest,bestiary 1 36
+dire boar,4,n,animal,temperate tropical,forest,bestiary 1 36
+boggard,2,ce,humanoid,temperate,marsh,bestiary 1 37
+bugbear,2,ce,humanoid,temperate,mountain,bestiary 1 38
+bulette,7,n,magical beast,temperate,hill,bestiary 1 39
+cheetah,2,n,animal,warm,plain,bestiary 1 40
+leopard,2,n,animal,any,forest,bestiary 1 40
+cave fisher,2,n,vermin,any,underground,bestiary 1 41
+centaur,3,n,monstrous humanoid,temperate,forest plain,bestiary 1 42
+giant centipede,0.5,n,vermin,temperate warm,forest underground,bestiary 1 43
+centipede swarm,4,n,vermin,temperate warm,forest underground,bestiary 1 43
+chimera,7,ce,magical beast,temperate,hill,bestiary 1 44
+choker,2,ce,aberration,any,underground,bestiary 1 45
+chuul,7,ce,aberration,temperate,swamp,bestiary 1 46
+cloaker,5,cn,aberration,any,underground,bestiary 1 47
+cockatrice,3,n,magical beast,temperate,plain,bestiary 1 48
+couatl,10,lg,outsider(native),warm,forest,bestiary 1 49
+giant crab,2,n,vermin,any,aquatic,bestiary 1 50
+crab swarm,4,n,vermin,any,aquatic,bestiary 1 50
+crocodile,2,n,animal,warm, river marsh,bestiary 1 51
+dire crocodile,9,n,animal,warm,river marsh,bestiary 1 51
+cyclops,5,ne,humanoid,temperate tropical,any,bestiary 1 52
+dark creeper,2,cn,humanoid,any,underground,bestiary 1 53
+dark stalker,4,cn,humanoid,any,underground,bestiary 1 54
+darkmantle,1,n,magical beast,any,underground,bestiary 1 55
+babau,6,ce,outsider,abyss,any,bestiary 1 57
+balor,20,ce,outsider,abyss,any,bestiary 1 58
+bretch,2,ce,outsider,abyss,any,bestiary 1 60
+glabrezu,13,ce,outsider,abyss,any,bestiary 1 61
+hezrou,11,ce,outsider,abyss,swamp,bestiary 1 62
+marilith,17,ce,outsider,abyss,any,bestiary 1 63
+nabasu,8,ce,outsider,abyss,any,bestiary 1 64
+nalfeshnee,14,ce,outsider,abyss,any,bestiary 1 65
+quasit,2,ce,outsider,abyss,any,bestiary 1 66
+shadow demon,7,ce,outsider,abyss,any,bestiary 1 67
+succubus,7,ce,outsider,abyss,any,bestiary 1 68
+vrock,9,ce,outsider,abyss,any,bestiary 1 69
+derro,3,ce,humanoid,any,underground,bestiary 1 70
+barbed devil,11,le,outsider,hell,any,bestiary 1 72
+bearded devil,5,le,outsider,hell,any,bestiary 1 73
+bone devil,9,le,outsider,hell,any,bestiary 1 74
+erinyes,8,le,outsider,hell,any,bestiary 1 75
+horned devil,16,le,outsider,hell,any,bestiary 1 76
+ice devil,13,le,outsider,hell,any,bestiary 1 77
+imp,2,le,outsider,hell,any,bestiary 1 78
+lemure,1,le,outsider,hell,any,bestiary 1 79
+pit fiend,20,le,outsider,hell,any,bestiary 1 80
+devourer,11,ne,undead,any,any,bestiary 1 82
+ankylosaurus,6,n,animal,warm,forest plain,bestiary 1 83
+brachiosaurus,10,n,animal,warm,forest plain,bestiary 1 83
+deinonychus,3,n,animal,warm,forest,bestiary 1 84
+elasmosaurus,7,n,animal,warm,aquatic,bestiary 1 84
+pteranodon,3,n,animal,warm,coastline,bestiary 1 85
+stegosaurus,7,n,animal,warm,plain,bestiary 1 85
+triceratops,8,n,animal,warm,plain,bestiary 1 86
+tyrannosaurus,9,n,animal,warm,forest plain,bestiary 1 86
+dog,0.3,n,animal,any,any,bestiary 1 87
+riding dog,0.5,n,animal,any,any,bestiary 1 87
+dolphin,0.5,n,animal,any,ocean,bestiary 1 88
+orca,5,n,animal,cold,ocean,bestiary 1 88
+doppleganger,3,n,monstrous humanoid,any,any,bestiary 1 89
+wyrmling black dragon,3,ce,dragon,warm,marsh,bestiary 1 92
+very young black dragon,5,ce,dragon,warm,marsh,bestiary 1 92
+young black dragon,7,ce,dragon,warm,marsh,bestiary 1 92
+juvenile black dragon,8,ce,dragon,warm,marsh,bestiary 1 92
+young adult black dragon,10,ce,dragon,warm,marsh,bestiary 1 92
+adult black dragon,11,ce,dragon,warm,marsh,bestiary 1 92
+mature adult black dragon,12,ce,dragon,warm,marsh,bestiary 1 92
+old black dragon,14,ce,dragon,warm,marsh,bestiary 1 92
+very old black dragon,15,ce,dragon,warm,marsh,bestiary 1 92
+ancient black dragon,16,ce,dragon,warm,marsh,bestiary 1 92
+wyrm black dragon,17,ce,dragon,warm,marsh,bestiary 1 92
+great wyrm black dragon,19,ce,dragon,warm,marsh,bestiary 1 92
+wyrmling blue dragon,5,le,dragon,warm,desert,bestiary 1 94
+very young blue dragon,7,le,dragon,warm,desert,bestiary 1 94
+young blue dragon,9,le,dragon,warm,desert,bestiary 1 94
+juvenile blue dragon,10,le,dragon,warm,desert,bestiary 1 94
+young adult blue dragon,12,le,dragon,warm,desert,bestiary 1 94
+adult blue dragon,13,le,dragon,warm,desert,bestiary 1 94
+mature adult blue dragon,15,le,dragon,warm,desert,bestiary 1 94
+old blue dragon,16,le,dragon,warm,desert,bestiary 1 94
+very old blue dragon,17,le,dragon,warm,desert,bestiary 1 94
+ancient blue dragon,18,le,dragon,warm,desert,bestiary 1 94
+wyrm blue dragon,19,le,dragon,warm,desert,bestiary 1 94
+great wyrm blue dragon,21,le,dragon,warm,desert,bestiary 1 94
+wyrmling green dragon,4,le,dragon,warm,marsh,bestiary 1 96
+very young green dragon,6,le,dragon,temperate,forest,bestiary 1 96
+young green dragon,8,le,dragon,temperate,forest,bestiary 1 96
+juvenile green dragon,9,le,dragon,temperate,forest,bestiary 1 96
+young adult green dragon,11,le,dragon,temperate,forest,bestiary 1 96
+adult green dragon,12,le,dragon,temperate,forest,bestiary 1 96
+mature adult green dragon,13,le,dragon,temperate,forest,bestiary 1 96
+old green dragon,15,le,dragon,temperate,forest,bestiary 1 96
+very old green dragon,16,le,dragon,temperate,forest,bestiary 1 96
+ancient green dragon,17,le,dragon,temperate,forest,bestiary 1 96
+wyrm green dragon,18,le,dragon,temperate,forest,bestiary 1 96
+great wyrm green dragon,20,le,dragon,temperate,forest,bestiary 1 96
+wyrmling red dragon,6,ce,dragon,warm,mountain,bestiary 1 98
+very young red dragon,8,ce,dragon,warm,mountain,bestiary 1 98
+young red dragon,10,ce,dragon,warm,mountain,bestiary 1 98
+juvenile red dragon,11,ce,dragon,warm,mountain,bestiary 1 98
+young adult red dragon,13,ce,dragon,warm,mountain,bestiary 1 98
+adult red dragon,14,ce,dragon,warm,mountain,bestiary 1 98
+mature adult red dragon,15,ce,dragon,warm,mountain,bestiary 1 98
+old red dragon,17,ce,dragon,warm,mountain,bestiary 1 98
+very old red dragon,18,ce,dragon,warm,mountain,bestiary 1 98
+ancient red dragon,19,ce,dragon,warm,mountain,bestiary 1 98
+wyrm red dragon,20,ce,dragon,warm,mountain,bestiary 1 98
+great wyrm red dragon,22,ce,dragon,warm,mountain,bestiary 1 98
+wyrmling white dragon,2,ce,dragon,cold,mountain,bestiary 1 100
+very young white dragon,4,ce,dragon,cold,mountain,bestiary 1 100
+young white dragon,6,ce,dragon,cold,mountain,bestiary 1 100
+juvenile white dragon,7,ce,dragon,cold,mountain,bestiary 1 100
+young adult white dragon,9,ce,dragon,cold,mountain,bestiary 1 100
+adult white dragon,10,ce,dragon,cold,mountain,bestiary 1 100
+mature adult white dragon,11,ce,dragon,cold,mountain,bestiary 1 100
+old white dragon,13,ce,dragon,cold,mountain,bestiary 1 100
+very old white dragon,14,ce,dragon,cold,mountain,bestiary 1 100
+ancient white dragon,15,ce,dragon,cold,mountain,bestiary 1 100
+wyrm white dragon,16,ce,dragon,cold,mountain,bestiary 1 100
+great wyrm white dragon,18,ce,dragon,cold,mountain,bestiary 1 100
+wyrmling brass dragon,3,cg,dragon,warm,desert,bestiary 1 102
+very young brass dragon,5,cg,dragon,warm,desert,bestiary 1 102
+young brass dragon,7,cg,dragon,warm,desert,bestiary 1 102
+juvenile brass dragon,8,cg,dragon,warm,desert,bestiary 1 102
+young adult brass dragon,10,cg,dragon,warm,desert,bestiary 1 102
+adult brass dragon,11,cg,dragon,warm,desert,bestiary 1 102
+mature adult brass dragon,12,cg,dragon,warm,desert,bestiary 1 102
+old brass dragon,14,cg,dragon,warm,desert,bestiary 1 102
+very old brass dragon,15,cg,dragon,warm,desert,bestiary 1 102
+ancient brass dragon,16,cg,dragon,warm,desert,bestiary 1 102
+wyrm brass dragon,17,cg,dragon,warm,desert,bestiary 1 102
+great wyrm brass dragon,19,cg,dragon,warm,desert,bestiary 1 102
+wyrmling bronze dragon,5,lg,dragon,temperate,coastline,bestiary 1 104
+very young bronze dragon,7,lg,dragon,temperate,coastline,bestiary 1 104
+young bronze dragon,9,lg,dragon,temperate,coastline,bestiary 1 104
+juvenile bronze dragon,10,lg,dragon,temperate,coastline,bestiary 1 104
+young adult bronze dragon,12,lg,dragon,temperate,coastline,bestiary 1 104
+adult bronze dragon,13,lg,dragon,temperate,coastline,bestiary 1 104
+mature adult bronze dragon,14,lg,dragon,temperate,coastline,bestiary 1 104
+old bronze dragon,16,lg,dragon,temperate,coastline,bestiary 1 104
+very old bronze dragon,17,lg,dragon,temperate,coastline,bestiary 1 104
+ancient bronze dragon,18,lg,dragon,temperate,coastline,bestiary 1 104
+wyrm bronze dragon,19,lg,dragon,temperate,coastline,bestiary 1 104
+great wyrm bronze dragon,21,lg,dragon,temperate,coastline,bestiary 1 104
+wyrmling copper dragon,4,cg,dragon,warm,hill,bestiary 1 106
+very young copper dragon,6,cg,dragon,warm,hill,bestiary 1 106
+young copper dragon,8,cg,dragon,warm,hill,bestiary 1 106
+juvenile copper dragon,9,cg,dragon,warm,hill,bestiary 1 106
+young adult copper dragon,11,cg,dragon,warm,hill,bestiary 1 106
+adult copper dragon,12,cg,dragon,warm,hill,bestiary 1 106
+mature adult copper dragon,13,cg,dragon,warm,hill,bestiary 1 106
+old copper dragon,15,cg,dragon,warm,hill,bestiary 1 106
+very old copper dragon,16,cg,dragon,warm,hill,bestiary 1 106
+ancient copper dragon,17,cg,dragon,warm,hill,bestiary 1 106
+wyrm copper dragon,18,cg,dragon,warm,hill,bestiary 1 106
+great wyrm copper dragon,20,cg,dragon,warm,hill,bestiary 1 106
+wyrmling gold dragon,7,lg,dragon,warm,plain,bestiary 1 108
+very young gold dragon,9,lg,dragon,warm,plain,bestiary 1 108
+young gold dragon,11,lg,dragon,warm,plain,bestiary 1 108
+juvenile gold dragon,12,lg,dragon,warm,plain,bestiary 1 108
+young adult gold dragon,14,lg,dragon,warm,plain,bestiary 1 108
+adult gold dragon,15,lg,dragon,warm,plain,bestiary 1 108
+mature adult gold dragon,16,lg,dragon,warm,plain,bestiary 1 108
+old gold dragon,18,lg,dragon,warm,plain,bestiary 1 108
+very old gold dragon,19,lg,dragon,warm,plain,bestiary 1 108
+ancient gold dragon,20,lg,dragon,warm,plain,bestiary 1 108
+wyrm gold dragon,21,lg,dragon,warm,plain,bestiary 1 108
+great wyrm gold dragon,23,lg,dragon,warm,plain,bestiary 1 108
+wyrmling silver dragon,6,lg,dragon,temperate,mountain,bestiary 1 110
+very young silver dragon,8,lg,dragon,temperate,mountain,bestiary 1 110
+young silver dragon,10,lg,dragon,temperate,mountain,bestiary 1 110
+juvenile silver dragon,11,lg,dragon,temperate,mountain,bestiary 1 110
+young adult silver dragon,13,lg,dragon,temperate,mountain,bestiary 1 110
+adult silver dragon,14,lg,dragon,temperate,mountain,bestiary 1 110
+mature adult silver dragon,15,lg,dragon,temperate,mountain,bestiary 1 110
+old silver dragon,17,lg,dragon,temperate,mountain,bestiary 1 110
+very old silver dragon,18,lg,dragon,temperate,mountain,bestiary 1 110
+ancient silver dragon,19,lg,dragon,temperate,mountain,bestiary 1 110
+wyrm silver dragon,20,lg,dragon,temperate,mountain,bestiary 1 110
+great wyrm silver dragon,22,lg,dragon,temperate,mountain,bestiary 1 110
+dragon turtle,9,n,dragon,temperate,aquatic,bestiary 1 112
+drider,7,ce,aberration,any,underground,bestiary 1 113
+drow,0.3,ce,humanoid,any,underground,bestiary 1 114
+drow noble,3,ce,humanoid,any,underground,bestiary 1 115
+dryad,3,cg,fey,temperate,forest,bestiary 1 116
+duergar,0.3,le,humanoid,any,underground,bestiary 1 117
+eagle,0.5,n,animal,temperate,mountain,bestiary 1 118
+giant eagle,3,ng,magical beast,temperate,mountain,bestiary 1 118
+electric eel,2,n,animal,warm,fresh water,bestiary 1 119
+giant moray eel,5,n,animal,warm,ocean,bestiary 1 119
+small air elemental,1,n,outsider,plane of air,any,bestiary 1 120
+medium air elemental,3,n,outsider,plane of air,any,bestiary 1 120
+large air elemental,5,n,outsider,plane of air,any,bestiary 1 120
+huge air elemental,7,n,outsider,plane of air,any,bestiary 1 120
+greater air elemental,9,n,outsider,plane of air,any,bestiary 1 120
+elder air elemental,11,n,outsider,plane of air,any,bestiary 1 120
+small earth elemental,1,n,outsider,plane of earth,any,bestiary 1 122
+medium earth elemental,3,n,outsider,plane of earth,any,bestiary 1 122
+large earth elemental,5,n,outsider,plane of earth,any,bestiary 1 122
+huge earth elemental,7,n,outsider,plane of earth,any,bestiary 1 122
+greater earth elemental,9,n,outsider,plane of earth,any,bestiary 1 122
+elder earth elemental,11,n,outsider,plane of earth,any,bestiary 1 122
+small fire elemental,1,n,outsider,plane of fire,any,bestiary 1 124
+medium fire elemental,3,n,outsider,plane of fire,any,bestiary 1 124
+large fire elemental,5,n,outsider,plane of fire,any,bestiary 1 124
+huge fire elemental,7,n,outsider,plane of fire,any,bestiary 1 124
+greater fire elemental,9,n,outsider,plane of fire,any,bestiary 1 124
+elder fire elemental,11,n,outsider,plane of fire,any,bestiary 1 124
+small water elemental,1,n,outsider,plane of water,any,bestiary 1 126
+medium water elemental,3,n,outsider,plane of water,any,bestiary 1 126
+large water elemental,5,n,outsider,plane of water,any,bestiary 1 126
+huge water elemental,7,n,outsider,plane of water,any,bestiary 1 126
+greater water elemental,9,n,outsider,plane of water,any,bestiary 1 126
+elder water elemental,11,n,outsider,plane of water,any,bestiary 1 126
+elephant,7,n,animal,warm,plain,bestiary 1 128
+mastodon,9,n,animal,cold temperate,forest plain,bestiary 1 128
+ettercap,3,ne,aberration,temperate,forest,bestiary 1 129
+ettin,6,ce,humanoid,cold,hill,bestiary 1 130
+bat,0.12,n,animal,temperate hot,forest desert,bestiary 1 131
+cat,0.25,n,animal,temperate hot,plain urban,bestiary 1 131
+hawk,0.3,n,animal,temperate,forest,bestiary 1 131
+lizard,0.16,n,animal,temperate warm,any,bestiary 1 131
+monkey,0.25,n,animal,warm,forest,bestiary 1 132
+owl,0.3,n,animal,temperate,forest,bestiary 1 132
+rate,0.25,n,animal,temperate,any,bestiary 1 132
+raven,0.16,n,animal,temperate,any,bestiary 1 133
+toad,0.12,n,animal,temperate warm,forest,bestiary 1 133
+viper,0.5,n,animal,temperate warm,any,bestiary 1 133
+weasel,0.5,n,animal,temperate,hill,bestiary 1 133
+giant flytrap,10,n,plant,temperate,swamp,bestiary 1 134
+giant frog,1,n,animal,temperate warm,marsh aquatic,bestiary 1 135
+poison frog,0.5,n,animal,warm,marsh aquatic,bestiary 1 135
+froghemoth,13,n,aberration,temperate,marsh,bestiary 1 136
+gargoyle,4,ce,monstrous humanoid,any,any,bestiary 1 137
+gelatinous cube,3,n,ooze,any,underground,bestiary 1 138
+djinni,5,cg,outsider,plane of air,any,bestiary 1 139
+efreeti,8,le,outsider,plane of fire,any,bestiary 1 140
+janni,4,n,outsider,warm,desert,bestiary 1 141
+marid,9,cn,outsider,plane of water,any,bestiary 1 142
+shaitan,7,ln,outsider,plane of earth,any,bestiary 1 143
+ghost,7,ce,undead,any,any,bestiary 1 144
+ghoul,1,ce,undead,any,land,bestiary 1 146
+cloud giant,11,ng ne,humanoid,temperate,mountain,bestiary 1 147
+fire giant,10,le,humanoid,warm,mountain,bestiary 1 148
+frost giant,9,ce,humanoid,cold,mountain,bestiary 1 149
+hill giant,7,ce,humanoid,temperate,hill,bestiary 1 150
+stone giant,8,n,humanoid,temperate,mountain,bestiary 1 151
+storm giant,13,cg,humanoid,warm,any,bestiary 1 152
+gibering mouther,5,n,aberration,any,underground,bestiary 1 153
+girallon,6,n,magical beast,warm,forest,bestiary 1 154
+gnoll,1,ce,humanoid,warm,plain desert,bestiary 1 155
+goblin,0.3,ne,humanoid,temperate,plain forest,bestiary 1 156
+goblin dog,1,n,animal,temperate,forest swamp underground,bestiary 1 157
+clay golem,10,n,construct,any,any,bestiary 1 159
+flesh golem,7,n,construct,any,any,bestiary 1 160
+ice golem,5,n,construct,any,any,bestiary 1 161
+iron golem,13,n,construct,any,any,bestiary 1 162
+stone golem,11,n,construct,any,any,bestiary 1 163
+wood golem,6,n,construct,any,any,bestiary 1 164
+gorgon,8,n,magical beast,temperate,plain hill underground,bestiary 1 165
+gray ooze,4,n,ooze,cold,marsh underground,bestiary 1 166
+green hag,5,ce,monstrous humanoid,temperate,marsh,bestiary 1 167
+griffon,4,n,magical beast,temperate,hill,bestiary 1 168
+half-celestrial unicorn,4,cg,outsider(native),temperate,forest,bestiary 1 169
+dracolisk,7,n,dragon,temperate,swamp underground,bestiary 1 170
+half-fiend minotaur,6,ce,outsider(native),temperate,ruins underground,bestiary 1 171
+harpy,4,ce,monstrous humanoid,temperate,marsh,bestiary 1 172
+hell hound,3,le,outsider,hell,any,bestiary 1 173
+nessian hell hound,9,le,outsider,hell,any,bestiary 1 173
+aurochs,2,n,animal,temperate,plain,bestiary 1 174
+bison,4,n,animal,cold temperate,plain,bestiary 1 174
+hobgoblin,0.5,le,humanoid,temperate,hill,bestiary 1 175
+homunculus,1,n,construct,any,any,bestiary 1 176
+horse,1,n,animal,temperate,plain,bestiary 1 177
+pony,0.5,n,animal,temperate,plain,bestiary 1 177
+hydra,4,n,magical beast,temperate,marsh,bestiary 1 178
+hyena,1,n,animal,warm,plain,bestiary 1 179
+dire hyena,3,n,animal,warm,plain,bestiary 1 179
+intellect devourer,8,ce,aberration,any,underground,bestiary 1 180
+invisible stalker,7,n,outsider,plane of air,any,bestiary 1 181
+iron cobra,2,n,construct,any,any,bestiary 1 182
+kobold,0.25,le,humanoid,temperate,underground forest,bestiary 1 183
+kraken,18,ne,magical beast,any,ocean,bestiary 1 184
+kyton,6,le,outsider,any,any,bestiary 1 185
+lamia,6,ce,monstrous humanoid,temperate,desert,bestiary 1 186
+giant leech,2,n,vermin,temperate warm,marsh,bestiary 1 187
+leech swarm,4,n,vermin,temperate warm,marsh,bestiary 1 187
+lich,12,ne,undead,any,any,bestiary 1 188
+crag linnorm,14,ce,dragon,cold,hill,bestiary 1 190
+ice linnorm,17,ce,dragon,cold,hill mountain,bestiary 1 191
+tarn linnorm,20,ce,dragon,cold,lake swamp,bestiary 1 192
+lion,3,n,animal,warm,plain,bestiary 1 193
+dire lion,5,n,animal,warm,plain,bestiary 1 193
+monitor lizard,2,n,animal,warm,forest plain,bestiary 1 194
+giant frilled lizard,5,n,animal,warm,forest plain hill,bestiary 1 194
+lizardfolk,1,n,humanoid,temperate,swamp,bestiary 1 195
+wererat,2,le,humanoid,any,urban,bestiary 1 197
+werewolf,2,ce,humanoid,any,land,bestiary 1 198
+manticore,5,le,magical beast,warm,hill marsh,bestiary 1 199
+giant mantis,3,n,vermin,temperate,forest,bestiary 1 200
+medusa,7,le,monstrous humanoid,temperate,marsh underground,bestiary 1 201
+mephit,3,n,outsider,any,any,bestiary 1 202
+merfolk,0.3,n,humanoid,temperate,ocean,bestiary 1 204
+mimic,4,n,aberration,any,any,bestiary 1 205
+minotaur,4,ce,humanoid,temperate,ruin underground,bestiary 1 206
+mite,0.25,le,fey,any,underground,bestiary 1 207
+mohrg,8,ce,undead,any,any,bestiary 1 208
+morlock,2,ce,monstrous humanoid,any,underground,bestiary 1 209
+mummy,5,le,undead,any,any,bestiary 1 210
+dark naga,8,le,aberration,any,underground,bestiary 1 211
+guardian naga,10,lg,aberration,temperate,plain,bestiary 1 212
+spirit naga,9,ce,aberration,temperate,marsh,bestiary 1 213
+neothelid,15,ce,aberration,any,underground,bestiary 1 214
+night hag,9,ne,outsider,evil plane,any,bestiary 1 215
+nightmare,5,ne,outside,abaddon,any,bestiary 1 216
+cauchemar,11,ne,outsider,abaddon,any,bestiary 1 216
+nymph,7,cg,fey,temperate,forest,bestiary 1 217
+ochre jelly,5,n,ooze,temperate,underground marsh,bestiary 1 218
+octopus,1,n,animal,temperate cold,ocean,bestiary 1 219
+giant octopus,8,n,animal,any,ocean,bestiary 1 219
+ogre,3,ce,humanoid,temperate cold,hill,bestiary 1 220
+ogre mage,8,le,outsider,cold,hill,bestiary 1 221
+orc,0.3,ce,humanoid,temperate,hill mountain underground,bestiary 1 222
+otyugh,4,n,aberration,any,underground,bestiary 1 223
+owlbear,4,n,magical beast,temperate,forest,bestiary 1 224
+pegasus,3,cg,magical beast,temperate warm,plain,bestiary 1 225
+phase spider,5,n,magical beast,warm,hill,bestiary 1 226
+phoenix,15,ng,magical beast,warm,desert hill,bestiary 1 227
+pixie,4,ng,fey,temperate,forest,bestiary 1 228
+pseudodragon,1,ng,dragon,temperate,forest,bestiary 1 229
+purple worm,12,n,magical beast,any,underground,bestiary 1 230
+rakshasa,10,le,outsider,any,any,bestiary 1 231
+dire rat,0.3,n,animal,any,urban,bestiary 1 232
+rat swarm,2,n,animal,any,any,bestiary 1 232
+remorhaz,7,n,magical beast,cold,desert glacier,bestiary 1 233
+retriever,11,ce,construct,abyss,any,bestiary 1 234
+rhinoceros,4,n,animal,warm,plain,bestiary 1 235
+woolly rhinoceros,6,n,animal,cold,plain,bestiary 1 235
+roc,9,n,animal,warm,mountain,bestiary 1 236
+roper,12,ce,aberration,any,underground,bestiary 1 237
+rust monster,3,n,aberration,any,underground,bestiary 1 238
+sahuagin,2,le,mounstrous humanoid,temperate warm,ocean,bestiary 1 239
+salamander,6,ce,outsider,plane of fire,any,bestiary 1 240
+satyr,4,cn,fey,temperate,forest,bestiary 1 241
+giant scorpion,3,n,vermin,warm temperate,desert forest plain underground,bestiary 1 242
+sea hag,4,ce,monstrous humanoid,any,aquatic,bestiary 1 243
+sea serpent,12,n,magical beast,any,ocean,bestiary 1 244
+shadow,3,ce,undead,any,any,bestiary 1 245
+greater shadow,8,ce,undead,any,any,bestiary 1 245
+shambling mound,6,n,plant,temperate,forest marsh,bestiary 1 246
+shark,2,n,animal,any,ocean,bestiary 1 247
+dire shark,9,n,animal,any,ocean,bestiary 1 247
+shocker lizard,2,n,magical beast,warm,marsh,bestiary 1 248
+shoggoth,19,cn,ooze,cold,aquatic underground,bestiary 1 249
+skeleton,0.3,ne,undead,any,any,bestiary 1 250
+skeletal champion,2,ne,undead,any,any,bestiary 1 252
+skum,2,le,monstrous humanoid,temperate cold,aquatic underground,bestiary 1 253
+giant slug,8,n,vermin,temperate warm,marsh underground,bestiary 1 254
+constrictor,2,n,animal,warm,forest swamp fresh water,bestiary 1 255
+venomous snake,1,n,animal,temperate warm,any,bestiary 1 255
+spectre,7,le,undead,any,any,bestiary 1 256
+sphinx,8,n,magical beast,warm,desert hill,bestiary 1 257
+giant spider,1,n,vermin,any,any,bestiary 1 258
+spider swarm,1,n,vermin,any,any,bestiary 1 258
+squid,1,n,animal,any,ocean,bestiary 1 259
+giant squid,9,n,animal,any,ocean,bestiary 1 259
+stirge,0.5,n,magical beast,temperate warm,swamp,bestiary 1 260
+svirfneblin,1,n,humanoid,any,underground,bestiary 1 261
+tarrasque,25,n,magical beast,any,any,bestiary 1 262
+tengu,0.5,n,humanoid,temperate,mountains urban,bestiary 1 263
+tiefling,0.5,ne,outsider(naitive),any,land,bestiary 1 264
+tiger,4,n,animal,any,forest,bestiary 1 265
+dire tiger,8,n,animal,any,forest plain swamp,bestiary 1 265
+treat,8,ng,plant,any,forest,bestiary 1 266
+troglodyte,1,ce,humanoid,any,underground,bestiary 1 267
+troll,5,ce,humanoid,cold,mountain,bestiary 1 268
+unicorn,3,cg,magical beast,temperate,forest,bestiary 1 269
+vampire,9,ce,undead,any,any,bestiary 1 270
+vargouille,2,ne,outsider,any,any,bestiary 1 272
+vegepygmy,0.5,n,plant,any,underground,bestiary 1 273
+voilet fungus,3,n,plant,any,underground,bestiary 1 274
+giant wasp,3,n,vermin,temperate,forest,bestiary 1 275
+wasp swarm,3,n,vermin,temperate,forest,bestiary 1 275
+wight,3,le,undead,any,any,bestiary 1 276
+will-o'-wisp,6,ce,aberration,any,swamp,bestiary 1 277
+wolf,1,n,animal,cold temperate,forest,bestiary 1 278
+dire wolf,3,n,animal,cold temperate,forest,bestiary 1 278
+wolverine,2,n,animal,cold,forest,bestiary 1 279
+dire wolverine,4,n,animal,cold,forest,bestiary 1 279
+worg,2,ne,magical beast,temperate,forest plain,bestiary 1 280
+winter wolf,5,ne,magical beast,cold,forest plain,bestiary 1 280
+wraith,5,le,undead,any,any,bestiary 1 281
+wyvern,6,n,dragon,temperate warm,hill,bestiary 1 282
+xill,6,le,outsider,ethereal plane,any,bestiary 1 283
+xorn,6,n,outsider,plane of earth,any,bestiary 1 284
+yellow musk creeper,2,n,plant,temperate warm,forest underground,bestiary 1 285
+yeth hound,3,ne,outsider,any,any,bestiary 1 286
+yeti,4,n,monstrous humanoid,cold,mountain,bestiary 1 287
+zombie,0.5,ne,undead,any,any,bestiary 1 288
