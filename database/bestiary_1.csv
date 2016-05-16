@@ -217,7 +217,7 @@ dryad,3,cg,fey,temperate,forest,bestiary 1 116
 duergar,0.3,le,humanoid,any,underground,bestiary 1 117
 eagle,0.5,n,animal,temperate,mountain,bestiary 1 118
 giant eagle,3,ng,magical beast,temperate,mountain,bestiary 1 118
-electric eel,2,n,animal,warm,fresh water,bestiary 1 119
+electric eel,2,n,animal,warm,freshwater,bestiary 1 119
 giant moray eel,5,n,animal,warm,ocean,bestiary 1 119
 small air elemental,1,n,outsider,plane of air,any,bestiary 1 120
 medium air elemental,3,n,outsider,plane of air,any,bestiary 1 120
@@ -387,7 +387,7 @@ skeleton,0.3,ne,undead,any,any,bestiary 1 250
 skeletal champion,2,ne,undead,any,any,bestiary 1 252
 skum,2,le,monstrous humanoid,temperate cold,aquatic underground,bestiary 1 253
 giant slug,8,n,vermin,temperate warm,marsh underground,bestiary 1 254
-constrictor,2,n,animal,warm,forest swamp fresh water,bestiary 1 255
+constrictor,2,n,animal,warm,forest swamp freshwater,bestiary 1 255
 venomous snake,1,n,animal,temperate warm,any,bestiary 1 255
 spectre,7,le,undead,any,any,bestiary 1 256
 sphinx,8,n,magical beast,warm,desert hill,bestiary 1 257
