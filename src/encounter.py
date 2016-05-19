@@ -31,6 +31,7 @@ class EncounterWidget(QtGui.QWidget):
 		align_box.addItem("Lawful Evil")
 		align_box.addItem("Neutral Evil")
 		align_box.addItem("Chaotic Evil")
+		align_box.activated[str].connect(self.setAlign)
 
 		cr = QtGui.QLabel("CR")
 		cr.setToolTip("Define the Maximum CR of an encounter.")
@@ -44,6 +45,8 @@ class EncounterWidget(QtGui.QWidget):
 
 		for i in range(1,31):
 			cr_box.addItem(str(i))
+		
+		cr_box.activated[str].connect(self.setCR)
 
 		climate = QtGui.QLabel("Climate")
 		climate.setToolTip("Define the climate of the encounter (includes Planes).")
@@ -75,6 +78,7 @@ class EncounterWidget(QtGui.QWidget):
 		climate_box.addItem("Purgatory")
 		climate_box.addItem("Shadow Plane")
 		climate_box.addItem("Utopia")
+		climate_box.activated[str].connect(self.setClimate)
 
 		terrain = QtGui.QLabel("Terrain")
 		terrain.setToolTip("Define the current terrain for the encounter.")
@@ -101,6 +105,7 @@ class EncounterWidget(QtGui.QWidget):
 		terrain_box.addItem("Underground")
 		terrain_box.addItem("Urban")
 		terrain_box.addItem("Volcano")
+		terrain_box.activated[str].connect(self.setTerrain)
 		
 		monster_type = QtGui.QLabel("Monster Type")
 		monster_type.setToolTip("Set the creature type of monsters in the encounter.")
@@ -119,14 +124,16 @@ class EncounterWidget(QtGui.QWidget):
 		mt_box.addItem("Plant")
 		mt_box.addItem("Undead")
 		mt_box.addItem("Vermin")
+		mt_box.activated[str].connected(self.setMonsterType)
 
 		result = QtGui.QLabel("Results")
-		results = QtGui.QTextEdit()
-		results.setReadOnly(True)
+		self.results = QtGui.QTextEdit()
+		self.results.setReadOnly(True)
 
 		gen = QtGui.QPushButton("Generate", self)
 		gen.setToolTip("Generate random encounter list")
 		gen.resize(gen.sizeHint())
+		gen.clicked.connect(self.generateList)
 
 		grid = QtGui.QGridLayout()
 		grid.setSpacing(10)
@@ -152,8 +159,32 @@ class EncounterWidget(QtGui.QWidget):
 		grid.addWidget(results,2,1,11,1)
 
 		self.setLayout(grid)
+		
+		conn = sqlite3.connect("../database/monsters.db")
+		self.cur = conn.cursor()
+
+		self.cr = ""
+		self.alg = ""
+		self.clm = ""
+		self.ter = ""
 
 		self.show()
+
+	def setCR(self, text):
+		
+	def setAlign(self, text):
+	
+	def setClimate(self, text):
+
+	def setTerrain(self, text):
+
+	def setMonsterType(self, text:)
+		
+	def generateList(self):
+		query = "select name, exp, book from monster where " + self.cr + self.alg + self.
+
+		self.cur.execute(query)
+
 
 class MainWindow(QtGui.QMainWindow):
 	def __init__(self):
@@ -169,10 +200,7 @@ class MainWindow(QtGui.QMainWindow):
 		self.setGeometry(300,300,700,450)
 		self.setWindowTitle("Encounter Generator")
 		self.setWindowIcon(QtGui.QIcon("PathfinderRPGLogo_500.jpeg"))
-
-		self.statusBar().showMessage("Ready")
 		
-
 		self.show()
 		
 def main():
